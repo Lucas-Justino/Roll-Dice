@@ -1,6 +1,6 @@
-# first_example
+# Flutter Project: Roll Dice
 
-A new Flutter project.
+The "Dice Roller" project is a Flutter application that aims to simulate virtual dice rolling. It was created to provide users with an interactive and fun experience, allowing them to perform dice rolls on their mobile devices.
 
 ## Getting Started
 
